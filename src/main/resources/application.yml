@@ -1,3 +1,10 @@
 francisco:
   user:  franciscobusleiman
   password: Talleres
+
+---
+  spring:
+    profile:  juan
+francisco:
+  user:  juan
+  password:  River
